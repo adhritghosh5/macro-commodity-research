@@ -64,10 +64,3 @@ The report details how the cleanup of the **Twin Balance Sheet Problem** catalyz
 4. **Axis Bank (Provisioning & Risk Calibration):**
    * Addressed wholesale book legacy slippages through accelerated provisioning, standardizing asset quality across retail and commercial verticals.
 
----
-
-## 📂 Associated Artifacts
-* **Complete Report PDF:** [`report.pdf`](file:///c:/Users/adhri/Downloads/Research%20Portfolio/macro-commodity-research/reports/03-modi-era-policies/report.pdf)
-* **Associated Charts:** [`charts/equities/`](file:///c:/Users/adhri/Downloads/Research%20Portfolio/macro-commodity-research/charts/equities/)
-* **Policy Event Study Notebook:** [`notebooks/03_modi_policy_regime_shifts.ipynb`](file:///c:/Users/adhri/Downloads/Research%20Portfolio/macro-commodity-research/notebooks/03_modi_policy_regime_shifts.ipynb)
-* **Policy Sector Backtest Script:** [`backtests/policy_momentum_backtest.py`](file:///c:/Users/adhri/Downloads/Research%20Portfolio/macro-commodity-research/backtests/policy_momentum_backtest.py)
