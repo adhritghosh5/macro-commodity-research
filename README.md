@@ -48,19 +48,4 @@ A structured institutional-grade repository housing macroeconomic research notes
   * Resolution of the "Twin Balance Sheet" crisis through IBC and multi-year PSU bank recapitalizations (₹3.1+ Lakh Cr).
   * Evolution of banking leaders: **HDFC Bank** (retail scale and HDFC Ltd mega-merger), **ICICI Bank** (post-2018 governance overhaul and RoA expansion), **SBI** (associate bank consolidation and balance sheet strength), and **Axis Bank** (corporate book turnaround).
 
----
-
-## 📊 Analytical Dimensions & Modules
-
-| Module | Core Variables & Datasets | Primary Tools / Scripts | Output Artifacts |
-| :--- | :--- | :--- | :--- |
-| **`charts/`** | Brent/WTI, LME Copper/Zinc/Tin/Silver, Nifty 50, Bank Nifty, NQH2O | Matplotlib, Seaborn, Plotly | High-resolution SVG/PNG charts |
-| **`data/`** | Historical daily OHLCV, macro indicators, government capex series | CSV, Parquet, JSON schemas | Normalized multi-asset data feeds |
-| **`notebooks/`** | Interactive Jupyter notebooks for regression, Granger causality & event studies | Pandas, NumPy, Statsmodels | Reproducible research notebooks |
-| **`src/`** | Modular library for signal generation, factor normalization, and API ingestion | Python 3.10+ package | Reusable analytical modules |
-| **`backtests/`** | Vectorized and event-driven backtesting engines with Sharpe/Sortino metrics | Custom Backtester, Vectorbt | Trade logs, equity curves & tear sheets |
-
----
-
----
-*Repository maintained by **Adhrit Ghosh**. For analytical queries and dataset access, refer to the respective report directories.*
+ueries and dataset access, refer to the respective report directories.*
